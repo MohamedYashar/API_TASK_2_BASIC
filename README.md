@@ -1,2 +1,2 @@
-# TASK2_API
+# API_TASK_2_BASIC
 Mentor Mr. Lavish
